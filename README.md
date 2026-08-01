@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Wasique Ahemad 👋
 
-<!--
-**wick-x02/wick-x02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm a cybersecurity learner focused on Offensive Security and Web Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- Python
+- Linux
+- Git & GitHub
+- Networking
+- Web Application Security
+- OWASP Top 10
+
+## 🎯 Current Goal
+
+Become a skilled Offensive Security Engineer and Bug Hunter by learning through hands-on labs and building practical projects.
+
+## 📚 Learning Platforms
+
+- TryHackMe (Starting)
+- PortSwigger Web Security Academy (Starting)
+- GitHub
+
+## 🛠️ Tools I'm Learning
+
+- Burp Suite Community Edition
+- Nmap
+- Wireshark
+- Git
+- VS Code
+
+## 🚀 2026 Goals
+
+- Learn Web Application Security
+- Complete TryHackMe learning paths
+- Complete PortSwigger labs
+- Build Python security tools
+- Publish security write-ups
+- Learn API Security
+
+## 📫 Connect
+
+- GitHub: https://github.com/wick-x02
